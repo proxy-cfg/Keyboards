@@ -1,2 +1,2 @@
 
-## Repositório criado para guardar e manter os códigos de .json e .hex dos meu teclados.
+## Repositório criado para guardar e manter os códigos de .json e .hex dos meus teclados.
